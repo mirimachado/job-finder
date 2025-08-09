@@ -51,4 +51,3 @@ Abra seu navegador e acesse:
 
 ---
 
-Sinta-se à vontade para adaptar este README conforme suas necessidades!
