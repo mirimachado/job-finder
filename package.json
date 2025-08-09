@@ -1,0 +1,32 @@
+{
+  "name": "job-finder",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mirimachado/job-finder#readme",
+  "bugs": {
+    "url": "https://github.com/mirimachado/job-finder/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirimachado/job-finder.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "express-handlebars": "^8.0.1",
+    "handlebars": "^4.7.8",
+    "sequelize": "^6.37.7",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
